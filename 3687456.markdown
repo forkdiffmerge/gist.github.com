@@ -1,0 +1,143 @@
+
+
+![][1]
+
+[harlantwood][2] (owner)
+
+### Revisions
+
+* 
+![][3]![][4]![][5]![][5]![][5]![][5]![][5][2c1b12][6]
+
+[harlant...][2]
+September 09, 2012
+
+* 
+![][3]![][3]![][3]![][3]![][3]![][3]![][5][2fcefe][7]
+
+[harlant...][2]
+September 09, 2012
+
+* 
+![][3]![][3]![][3]![][3]![][3]![][3]![][5][d89956][8]
+
+[harlant...][2]
+September 09, 2012
+
+ gist: 3687456
+
+[![Download_button][9]][10]
+
+[![fork][11]][12]
+
+[![public][13]][14]
+
+## Private Gist
+
+ All pages are served over SSL and all pushing and pulling is done over SSH. 
+No one may fork, clone, or view it unless they are given this private URL. 
+ 
+
+Every gist with this icon (![private][15]) is private.
+
+[![public][13]][14]
+
+## Public Gist
+
+Anyone may fork, clone, or view it.
+
+Every repository with this icon (![public][13]) is public.
+
+|Description:|
+
+Core Nexus
+
+|
+|Public Clone URL:|
+[git://gist.github.com/3687456.git][16]
+
+ Give this clone URL to anyone.   
+`git clone git://gist.github.com/3687456.git gist-3687456`
+
+|
+|Embed All Files:|
+[show embed][17]
+|
+
+ index.md [#][18]
+
+[embed][17]
+
+[raw][19]
+
+# 
+[][20]Core Nexus for Better Organizations
+
+## 
+[][21]Team Level
+
+[Core Protocols][22] or better
+
+## 
+[][23]Organization Level
+
+[Holacracy][24] or better
+
+## 
+[][25]Sharing Credit & Wealth
+
+[Better Means][26] or better
+
+## 
+[][27]Remixing Content
+
+[Github][28] + [prose.io][29] (markdown editor) or better
+
+_(Future: [Software_Zero][30] or better)_
+
+----
+
+This content is free and remixable under a [Creative Commons BY-SA License][31]. 
+
+ 
+
+----
+
+This page was forked with permission from [https://gist.github.com/3687456][32]
+
+----
+
+[Creative Commons BY-SA License][31]
+
+[1]: https://secure.gravatar.com/avatar/e93c207a37df3d85bbf072c014d9eae4?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png
+[2]: https://gist.github.com/harlantwood
+[3]: https://a248.e.akamai.net/assets.github.com/images/gist/gist/dot_green.png?1338945074
+[4]: https://a248.e.akamai.net/assets.github.com/images/gist/gist/dot_red.png?1338945074
+[5]: https://a248.e.akamai.net/assets.github.com/images/gist/gist/dot_gray.png?1338945074
+[6]: https://gist.github.com/3687456/2c1b12e1913539e7cc4391c1a40af266a1c632ed
+[7]: https://gist.github.com/3687456/2fcefe48000b28549804a8d789de690077c447b9
+[8]: https://gist.github.com/3687456/d89956ea195c05c2a86785106e89cf6aa24b2975
+[9]: https://a248.e.akamai.net/assets.github.com/images/gist/buttons/download_button.png?1340659560
+[10]: https://gist.github.com/gists/3687456/download
+[11]: https://a248.e.akamai.net/assets.github.com/images/gist/buttons/fork_button.png?1340659560
+[12]: https://github.com/signup
+[13]: https://a248.e.akamai.net/assets.github.com/images/gist/icons/public.png?1340659560
+[14]: #public_repo
+[15]: https://a248.e.akamai.net/assets.github.com/images/gist/icons/private.png?1340659560
+[16]: 
+[17]: #
+[18]: #file_index.md
+[19]: https://gist.github.com/raw/3687456/de8ed3b8a405d95beb2424083dce6b226de7230a/index.md
+[20]: #core-nexus-for-better-organizations
+[21]: #team-level
+[22]: http://liveingreatness.com/files/core-protocols-3.03.html
+[23]: #organization-level
+[24]: http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v3.0_0.pdf
+[25]: #sharing-credit--wealth
+[26]: http://bettermeans.com/front/open_enterprise_governance_model.html
+[27]: #remixing-content
+[28]: https://help.github.com/
+[29]: http://prose.io/
+[30]: http://enlightenedstructure.org/Software_Zero/
+[31]: http://creativecommons.org/licenses/by-sa/3.0/
+[32]: https://gist.github.com/3687456
